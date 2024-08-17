@@ -52,4 +52,4 @@ A theme should have specific properties to be a theme, Here are those properties
 	Font
 ```
 
-If you finished your theme, put it in the Lynx themes using `Lynx.Themes["Custom"]`.
+If you finished your theme, put it in the Lynx themes using `Lynx.Themes.ExampleTheme = ThemeProperties`.
